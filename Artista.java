@@ -23,6 +23,7 @@ public class Artista {
     public String cadenaArtista(){
 	return "el nombre es :"+nombreArtista;
     }
+   //COmentario del ejercicio 2
     
 }
 
