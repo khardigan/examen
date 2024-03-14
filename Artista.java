@@ -16,6 +16,7 @@ public class Artista {
 
     public String getNombreArtista() {
         return nombreArtista;
+	//Esto es un comentario
     }
     
 }
